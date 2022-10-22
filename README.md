@@ -40,8 +40,8 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
-| Ingeniero de Software |
-| --------------- |
+| Ingeniero de Software | |
+| ------- | ------- |
 | Certificación | Descripción |
 | RHCE          | RedHat Certified Engineer |
 | dCAP          | Digium Certified Asterisk Professional |
