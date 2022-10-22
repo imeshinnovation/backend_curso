@@ -40,7 +40,8 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
-##### Ingeniero de Software
+***
+Ingeniero de Software
 
 | Certificación | Descripción |
 | ------- | ------- |
