@@ -46,3 +46,5 @@ yarn dev
 - [x] MERN (MongoDB Express React NodeJS)
 - [x] MEAN (MongoDB Express Angular NodeJS)
 - [x] MEVN (MongoDB Express Vue NodeJS)
+
+[^1]: Email: sigueme.android@gmail.com
