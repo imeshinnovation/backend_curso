@@ -40,7 +40,7 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
-| Ingeniero de Software | |
+| Profesional | Ingeniero de Software |
 | ------- | ------- |
 | Certificación | Descripción |
 | RHCE          | RedHat Certified Engineer |
