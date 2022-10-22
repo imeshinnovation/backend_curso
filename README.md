@@ -13,7 +13,7 @@ Ingresamos al Directorio del Proyecto
 cd backend_curso
 ```
 
-Instalamos las Dependencias con NPM o YARN
+Instalamos las Dependencias con NPM o YARN (Recomendado)
 
 ```bash
 npm i
@@ -22,6 +22,21 @@ npm i
 ```bash
 yarn install
 ```
+
+Ejecutamos el Proyecto en Modo Depuración
+
+Con NPM
+
+```bash
+npm run dev
+```
+
+O con YARN
+
+```bash
+yarn dev
+```
+
 
 
 #### Ing. Alexander Rubio Cáceres
