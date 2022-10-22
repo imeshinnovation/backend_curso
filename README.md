@@ -31,7 +31,7 @@ Con NPM
 npm run dev
 ```
 
-O con YARN
+O con YARN (Recomendado)
 
 ```bash
 yarn dev
@@ -39,4 +39,4 @@ yarn dev
 
 
 
-#### Ing. Alexander Rubio Cáceres
+## Ing. Alexander Rubio Cáceres
