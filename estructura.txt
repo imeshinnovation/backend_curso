@@ -1,5 +1,5 @@
 Raíz del Proyecto
-|_ src (Código Fuente)
+|_ src (Almacena el Código Fuente)
     |_ libs (Librerías o Métodos de Clase)
         |_ database.js (Clase y Método de COnexión a la Base de Datos de Mongo) 
         |_ keys.js (Método Utilizado para Formatear el URI de forma Segura)
