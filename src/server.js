@@ -5,7 +5,7 @@ const dotenv = require('dotenv')
 const morgan = require('morgan')
 const database = require('./libs/database')
 
-// Habilitamos la Configuración del ENV
+// Habilitamos la Configuración Almacenada en el archivo .env
 dotenv.config()
 
 // Conectamos la Base de Datos
