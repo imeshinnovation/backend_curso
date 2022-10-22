@@ -41,4 +41,8 @@ yarn dev
 
 ### Alexander Rubio Cáceres
 - [x] Ingeniero de Software
-- [x] RHCE, dCAP MERN, MEAN, MEVN
+- [x] RHCE (RedHat Certified Engineer)
+- [x] dCAP (Digium Certified Asterisk Professional)
+- [x] MERN (MongoDB Express React NodeJS)
+- [x] MEAN (MongoDB Express Angular NodeJS)
+- [x] MEVN (MongoDB Express Vue NodeJS)
