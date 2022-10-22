@@ -1,0 +1,13 @@
+Raíz del Proyecto
+|_ src (Código Fuente)
+    |_ libs (Librerías o Métodos de Clase)
+        |_ database.js (Clase y Método de COnexión a la Base de Datos de Mongo) 
+        |_ keys.js (Método Utilizado para Formatear el URI de forma Segura)
+    |_ models (Archivos Utilizados para modelar los documentos de la base de datos en mongo)
+        |_ users.js (Esquema para el modelado de datos para los usuarios en la base de datos)
+    |_ routes (Archivos de Rutas para los métodos http utilizados por cada Nivel de CRUD)
+        |_ index.js (Ruta Inicial para la Raiz de peticiones HTTP)
+    |_ server.js (Módulo Principal utilizado para lanzar el Proyecto en NodeJS)
+|_ .env (Archivo Oculto para el Usuario Final, Utilizado para Almacenar las Variables de Entorno)
+|_ .gitignore (Archivo utilizado para Excluir la exportación de elementos en el GIT Repository)
+|_ package.json (Archivo de Configuración y Despliegue de Elementos para el Proyecto en NodeJS)
