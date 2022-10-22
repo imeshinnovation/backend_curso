@@ -40,7 +40,7 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
-```python
-Ingeniero de Software
+```html
+<i>Ingeniero de Software</i>
 RHCE, dCAP MERN, MEAN, MEVN
 ```
