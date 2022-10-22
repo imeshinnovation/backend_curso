@@ -1,0 +1,19 @@
+{
+    "author": {
+        "name": "Grupo Desarrollo",
+        "email": "sigueme.android@gmail.com",
+        "url": "http://www.imesh.app"
+    },
+    "name": "backend",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "dev": "nodemon ./src/server.js --watch"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "mongoose": "^6.6.7",
+        "morgan": "^1.10.0"
+    }
+}
