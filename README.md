@@ -40,6 +40,7 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
+| Ingeniero de Software |
 | Certificación | Descripción |
 | ------------- | ------------|
 | RHCE          | RedHat Certified Engineer |
@@ -47,12 +48,5 @@ yarn dev
 | MERN          | MongoDB Express React NodeJS |
 | MEAN          | MongoDB Express Angular NodeJS |
 | MEVN          | MongoDB Express Vue NodeJS |
-
-- [x] Ingeniero de Software
-- [x] RHCE (RedHat Certified Engineer)
-- [x] dCAP (Digium Certified Asterisk Professional)
-- [x] MERN (MongoDB Express React NodeJS)
-- [x] MEAN (MongoDB Express Angular NodeJS)
-- [x] MEVN (MongoDB Express Vue NodeJS)
-
-[^note]: Email: sigueme.android@gmail.com
+| --------------- |
+| Email | sigueme.android@gmail.com |
