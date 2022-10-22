@@ -47,4 +47,4 @@ yarn dev
 - [x] MEAN (MongoDB Express Angular NodeJS)
 - [x] MEVN (MongoDB Express Vue NodeJS)
 
-[^1]: Email: sigueme.android@gmail.com
+[^note]: Email: sigueme.android@gmail.com
