@@ -1,7 +1,7 @@
 Raíz del Proyecto
 |_ src (Almacena el Código Fuente)
     |_ libs (Librerías o Métodos de Clase)
-        |_ database.js (Clase y Método de COnexión a la Base de Datos de Mongo) 
+        |_ database.js (Clase y Método de Conexión a la Base de Datos de Mongo) 
         |_ keys.js (Método Utilizado para Formatear el URI de forma Segura)
     |_ models (Archivos Utilizados para modelar los documentos de la base de datos en mongo)
         |_ users.js (Esquema para el modelado de datos para los usuarios en la base de datos)
