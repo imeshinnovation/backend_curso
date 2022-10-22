@@ -40,5 +40,5 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
-- [^1]: Ingeniero de Software
-- [^2]: RHCE, dCAP MERN, MEAN, MEVN
+- [x]: Ingeniero de Software
+- [x]: RHCE, dCAP MERN, MEAN, MEVN
