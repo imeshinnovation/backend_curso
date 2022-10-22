@@ -40,6 +40,14 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
+| Certificación | Descripción |
+| ------------- | ------------|
+| RHCE          | RedHat Certified Engineer |
+| dCAP          | Digium Certified Asterisk Professional |
+| MERN          | MongoDB Express React NodeJS |
+| MEAN          | MongoDB Express Angular NodeJS |
+| MEVN          | MongoDB Express Vue NodeJS |
+
 - [x] Ingeniero de Software
 - [x] RHCE (RedHat Certified Engineer)
 - [x] dCAP (Digium Certified Asterisk Professional)
