@@ -40,7 +40,7 @@ yarn dev
 
 
 ### Alexander Rubio Cáceres
-| Profesional | Ingeniero de Software |
+Ingeniero de Software
 
 | Certificación | Descripción |
 | ------- | ------- |
@@ -50,4 +50,4 @@ yarn dev
 | MEAN          | MongoDB Express Angular NodeJS |
 | MEVN          | MongoDB Express Vue NodeJS |
 
-| Email | sigueme.android@gmail.com |
+Email: sigueme.android@gmail.com
