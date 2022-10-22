@@ -7,6 +7,7 @@ const database = require('./libs/database')
 
 dotenv.config()
 
+// Conectamos la Base de Datos
 database.connect()
 
 const env = process.env
