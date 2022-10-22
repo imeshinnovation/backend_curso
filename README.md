@@ -39,8 +39,6 @@ yarn dev
 
 
 
-### Alexander Rubio Cáceres
-```html
-<i>Ingeniero de Software</i>
-RHCE, dCAP MERN, MEAN, MEVN
-```
+##### Alexander Rubio Cáceres
+- Ingeniero de Software
+- RHCE, dCAP MERN, MEAN, MEVN
