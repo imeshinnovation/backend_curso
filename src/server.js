@@ -3,10 +3,11 @@
 const express = require('express')
 const dotenv = require('dotenv')
 const morgan = require('morgan')
+const database = require('./libs/database')
 
 dotenv.config()
 
-require('./libs/database')
+database.connect()
 
 const env = process.env
 
